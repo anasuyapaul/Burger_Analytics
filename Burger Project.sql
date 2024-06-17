@@ -1,0 +1,2 @@
+create database Burger_Analytics
+use Burger_Analytics

@@ -2,10 +2,10 @@
 The Burger Sales Report Analysis project is a SQL-based analysis tool designed to extract meaningful insights from a database containing orders and runner information. This project aims to facilitate decision-making and provide actionable insights for a hypothetical burger delivery service.
 
 **Features**
-1. Order Retrieval with Runner's Registration Date
+1.Order Retrieval with Runner's Registration Date
 Retrieves each order from the database along with the corresponding registration date of the runner.
 
-2. Burger Names with Order IDs
+2.Burger Names with Order IDs
 Retrieves the names of burgers ordered along with their respective order IDs, enhancing order details for further analysis.
 
 3.Total Orders and Average Distance Covered by Runners
